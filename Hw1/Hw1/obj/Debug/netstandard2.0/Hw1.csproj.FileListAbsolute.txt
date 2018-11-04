@@ -1,0 +1,12 @@
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\Hw1.csprojAssemblyReference.cache
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\Hw1.csproj.CoreCompileInputs.cache
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\Hw1.AssemblyInfoInputs.cache
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\Hw1.AssemblyInfo.cs
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\bin\Debug\netstandard2.0\Hw1.deps.json
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\bin\Debug\netstandard2.0\Hw1.dll
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\bin\Debug\netstandard2.0\Hw1.pdb
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\Hw1.dll
+C:\Users\Gwynbleidd\source\repos\Hw1\Hw1\Hw1\obj\Debug\netstandard2.0\Hw1.pdb
