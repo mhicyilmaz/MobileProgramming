@@ -65,84 +65,84 @@ Bölümde eğitim dili İngilizce’dir. Eğitim süresi, 1 yıllık İngilizce 
                 
                 
                 
-                        <ContentView Grid.Row="0" Grid.Column="0" HeightRequest="65" BackgroundColor="#ffeed1">
+                        <ContentView Grid.Row="0" Grid.Column="0" BackgroundColor="#ffeed1">
                             <StackLayout Orientation="Horizontal">
                                 <Image Source="http://ceng.eskisehir.edu.tr/img/aarslan2.jpg" Margin="10"  WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                                 <Label Text="Dr.Öğr. Üyesi Ahmet ARSLAN" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                             </StackLayout>
                         </ContentView>
 
-                        <ContentView Grid.Row="0" Grid.Column="1" HeightRequest="65" BackgroundColor="#ffeed1">
+                        <ContentView Grid.Row="0" Grid.Column="1" BackgroundColor="#ffeed1">
                             <StackLayout Orientation="Horizontal">
                                 <Image Source="http://ceng.eskisehir.edu.tr/img/yhoscan.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                                 <Label Text="Prof.Dr. Yaşar HOŞCAN" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                             </StackLayout>
                         </ContentView>
 
-                        <ContentView Grid.Row="1" Grid.Column="0" HeightRequest="65" BackgroundColor="#ffeed1">
+                        <ContentView Grid.Row="1" Grid.Column="0" BackgroundColor="#ffeed1">
                             <StackLayout Orientation="Horizontal">
                                 <Image Source="http://ceng.eskisehir.edu.tr/img/serkangunal.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                                 <Label Text="Doç.Dr. Serkan GÜNAL" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                             </StackLayout>
                         </ContentView>
 
-                        <ContentView Grid.Row="1" Grid.Column="1" HeightRequest="65" BackgroundColor="#ffeed1">
+                        <ContentView Grid.Row="1" Grid.Column="1" BackgroundColor="#ffeed1">
                             <StackLayout Orientation="Horizontal">
                                 <Image Source="http://ceng.eskisehir.edu.tr/img/ckaleli.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                                 <Label Text="Doç.Dr. Cihan KALELİ" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                             </StackLayout>
                         </ContentView>
 
-                    <ContentView Grid.Row="2" Grid.Column="0" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="2" Grid.Column="0" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/akuysal.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Dr.Öğr. Üyesi Alper Kürşat UYSAL" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="2" Grid.Column="1" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="2" Grid.Column="1" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/abilge.png" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Dr.Öğr. Üyesi Alper BİLGE" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="3" Grid.Column="0" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="3" Grid.Column="0" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/sevcany.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Dr.Öğr. Üyesi Sevcan YILMAZ GÜNDÜZ" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="3" Grid.Column="1" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="3" Grid.Column="1" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/byurekli.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Araş.Gör.Dr. Burcu YÜREKLİ YILMAZEL" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="4" Grid.Column="0" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="4" Grid.Column="0" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/oozsen.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Öğr.Gör. Özgür ÖZŞEN" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="4" Grid.Column="1" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="4" Grid.Column="1" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/ekacmaz.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Öğr.Gör. Emre KAÇMAZ" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="5" Grid.Column="0" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="5" Grid.Column="0" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/roaltug.jpeg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Öğr.Gör. Reha Oğuz ALTUĞ" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
                         </StackLayout>
                     </ContentView>
 
-                    <ContentView Grid.Row="5" Grid.Column="1" HeightRequest="65" BackgroundColor="#ffeed1">
+                    <ContentView Grid.Row="5" Grid.Column="1" BackgroundColor="#ffeed1">
                         <StackLayout Orientation="Horizontal">
                             <Image Source="http://ceng.eskisehir.edu.tr/img/ayargic.jpg" Margin="10" WidthRequest="65" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
                             <Label Text="Araş.Gör. Alper YARGIÇ" FontSize="12" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
@@ -158,157 +158,159 @@ Bölümde eğitim dili İngilizce’dir. Eğitim süresi, 1 yıllık İngilizce 
 
     <ContentPage Title="Altyapı">
         <ScrollView>
-            <TableView>
-                <TableRoot>
-                    <TableSection>
-                        <ViewCell>
+            <StackLayout Margin="5">
+                <TableView>
+                    <TableRoot>
+                        <TableSection>
+                            <ViewCell>
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                                    <Label Text="Derslik-B1"/>
-                                    <Label Text="Kapasite: 36"/>
+                                        <Label Text="Derslik-B1"/>
+                                        <Label Text="Kapasite: 36"/>
 
+                                    </StackLayout>
+
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B1_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B1_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Derslik-B2"/>
+                                        <Label Text="Kapasite: 15"/>
 
-                                    <Label Text="Derslik-B2"/>
-                                    <Label Text="Kapasite: 15"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B2_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B2_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Derslik-B3"/>
+                                        <Label Text="Kapasite: 18"/>
 
-                                    <Label Text="Derslik-B3"/>
-                                    <Label Text="Kapasite: 18"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B3_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B3_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Derslik-B4"/>
+                                        <Label Text="Kapasite: 24"/>
 
-                                    <Label Text="Derslik-B4"/>
-                                    <Label Text="Kapasite: 24"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B4_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B4_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Derslik-B5"/>
+                                        <Label Text="Kapasite: 15"/>
 
-                                    <Label Text="Derslik-B5"/>
-                                    <Label Text="Kapasite: 15"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B5_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B5_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Derslik-B6"/>
+                                        <Label Text="Kapasite: 24"/>
 
-                                    <Label Text="Derslik-B6"/>
-                                    <Label Text="Kapasite: 24"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B6_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B6_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Derslik-B7"/>
+                                        <Label Text="Kapasite: 54"/>
 
-                                    <Label Text="Derslik-B7"/>
-                                    <Label Text="Kapasite: 54"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B7_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Class_B7_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Lab-01"/>
+                                        <Label Text="Kapasite: 61 PC"/>
 
-                                    <Label Text="Lab-01"/>
-                                    <Label Text="Kapasite: 61 PC"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Lab_PC1_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Lab_PC1_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
 
+                            </ViewCell>
 
-                        </ViewCell>
+                            <ViewCell>
 
-                        <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout Orientation="Vertical">
 
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout Orientation="Vertical">
+                                        <Label Text="Lab-02"/>
+                                        <Label Text="Kapasite: 24 iMac"/>
 
-                                    <Label Text="Lab-02"/>
-                                    <Label Text="Kapasite: 24 iMac"/>
+                                    </StackLayout>
 
+                                    <Image Source="http://ceng.eskisehir.edu.tr/Documents/Lab_Mac1_icon.jpg" HorizontalOptions="EndAndExpand"/>
                                 </StackLayout>
 
-                                <Image Source="http://ceng.eskisehir.edu.tr/Documents/Lab_Mac1_icon.jpg" HorizontalOptions="EndAndExpand"/>
-                            </StackLayout>
+
+                            </ViewCell>
 
 
-                        </ViewCell>
-
-
-                    </TableSection>
-                </TableRoot>
-            </TableView>
+                        </TableSection>
+                    </TableRoot>
+                </TableView>
+            </StackLayout>
         </ScrollView>
     </ContentPage>
 
